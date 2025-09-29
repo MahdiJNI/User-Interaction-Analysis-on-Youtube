@@ -59,3 +59,5 @@ Then I add the results together, after that I divided the result of the sum, to 
 
 # Also :
 During the cleaning part, I intentionally exclude a few values across the dataset from filters, so it gives the chance to encounter the errors in different levels and steps, which i think it's important to face these issues anywhere possible & probable, just to get better at solving the problems.
+some categories have more presence than the others and vice versa in the dataset, because I wanted the data to be more balanced in order to have an indication of difference and growth or decline
+in details and more in depth.
