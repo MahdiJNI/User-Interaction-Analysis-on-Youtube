@@ -1,7 +1,7 @@
 # User-Interaction-Analysis-on-Youtube
 
 
-# Date : 
+## Date : 
 
 
 
@@ -10,7 +10,7 @@ Ended : september 28 2025
 
 
 
-# Tools :
+## Tools :
 
 Python,
 Pandas,
@@ -20,7 +20,7 @@ Microsoft Power BI
 
 
 
-# DataSet Production :
+## DataSet Production :
 
 Due To Extremely Unstable Functionality Of Webscraping On Youtube & High Costs Of API Services, Both Google And Other Web Companies, The Whole Data Is Collected Manually.
 
@@ -30,17 +30,17 @@ Find them affordable at the time, there I had to collect the whole data manually
 
 
 
-# The Idea :
+## The Idea :
 
 The Main Questions Were : 
---1- Which youtube channels, somehow make their audience to interact with their videos ?
---2- Do the channels with high subscrption numbers have the most interaction between their channels and their audience ?
+1- Which youtube channels, somehow make their audience to interact with their videos ?
+2- Do the channels with high subscrption numbers have the most interaction between their channels and their audience ?
 3 - is it related to the subject that they mostly focus on ?
 4- does the duration of videos play an important role here ?
 
 
 
-# Interaction Rate :
+## Interaction Rate :
 
 The calculation of the interaction rate is only around the count of both likes & comments !!
 
@@ -57,7 +57,7 @@ Then I add the results together, after that I divided the result of the sum, to 
 
 
 
-# Also :
+## Also :
 During the cleaning part, I intentionally exclude a few values across the dataset from filters, so it gives the chance to encounter the errors in different levels and steps, which i think it's important to face these issues anywhere possible & probable, just to get better at solving the problems.
 some categories have more presence than the others and vice versa in the dataset, because I wanted the data to be more balanced in order to have an indication of differenceو growth or decline
 in details and more in depth, not on surface.
