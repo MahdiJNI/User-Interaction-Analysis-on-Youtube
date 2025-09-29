@@ -22,7 +22,7 @@ Microsoft Power BI
 
 # DataSet Production :
 
-Due To Extremely Unstable Functionality Of Webscraping On Youtube & High Costs Of API Services Both Google And Other Web Companies, The Whole Data Is Collected Manually.
+Due To Extremely Unstable Functionality Of Webscraping On Youtube & High Costs Of API Services, Both Google And Other Web Companies, The Whole Data Is Collected Manually.
 
 At first I tried to collect the data through scraping but it was really unstable and did not work efficiently. then i tried " Googleapiclieant " library which as you may know, it has a few limits &
 You can not get the whole data that you want, all at once, if you're going to have a large dataset or many requests. there are a few websites that offer these sort of services but I did not 
