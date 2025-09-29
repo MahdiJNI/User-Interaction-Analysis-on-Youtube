@@ -33,10 +33,10 @@ Find them affordable at the time, there I had to collect the whole data manually
 ## The Idea :
 
 The Main Questions Were : 
-1- Which youtube channels, somehow make their audience to interact with their videos ?
-2- Do the channels with high subscrption numbers have the most interaction between their channels and their audience ?
-3 - is it related to the subject that they mostly focus on ?
-4- does the duration of videos play an important role here ?
+....1- Which youtube channels, somehow make their audience to interact with their videos ?
+....2- Do the channels with high subscrption numbers have the most interaction between their channels and their audience ?
+....3 - is it related to the subject that they mostly focus on ?
+....4- does the duration of videos play an important role here ?
 
 
 
