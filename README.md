@@ -2,21 +2,18 @@
 
 
 ## Date : 
-
-
-
-Started : september 16, 2025
-Ended : september 28 2025
+* Started : september 16, 2025
+* Ended : september 28 2025
 
 
 
 ## Tools :
 
-Python,
-Pandas,
-Mysql Workbench,
-Jupyter notebook,
-Microsoft Power BI
+* Python,
+* Pandas,
+* Mysql Workbench,
+* Jupyter notebook,
+* Microsoft Power BI
 
 
 
